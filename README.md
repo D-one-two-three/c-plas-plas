@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/ea4235c5-e0ba-4727-b3d3-f84cf97c7e25)![image](https://github.com/user-attachments/assets/6594c4db-fee7-4e14-99e3-53ad7366b38a)![image](https://github.com/user-attachments/assets/92c03669-47ae-49ff-924c-208663335b93)![image](https://github.com/user-attachments/assets/24dad3b0-e4d4-47d4-b967-7fb35f15d82a)## Спидран по таскам, поехали...
-![](https://github.com/D-one-two-three/c-plas-plas/blob/main/src/ggwp.gif)
+
 
 ## Первая
 > ## Задача(-чи):
