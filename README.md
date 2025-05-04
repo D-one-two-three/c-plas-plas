@@ -1,4 +1,5 @@
 
+![](https://github.com/D-one-two-three/c-plas-plas/blob/main/src/ggwp.gif)
 
 ## Первая
 > ## Задача(-чи):
