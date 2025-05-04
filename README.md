@@ -1,5 +1,3 @@
-![26](https://github.com/user-attachments/assets/65c498ea-009f-4cdf-b6c5-a4a16f9a2843)![18](https://github.com/user-attachments/assets/19e83051-182d-4f29-9397-4474706a24ef)# c-plas-plas
-
 ## Спидран по таскам, поехали...
 
 
