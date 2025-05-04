@@ -1,5 +1,5 @@
 ## Спидран по таскам, поехали...
-
+![](https://github.com/D-one-two-three/c-plas-plas/blob/main/src/ggwp.gif)
 
 ## Первая
 > ## Задача(-чи):
@@ -25,6 +25,9 @@
 Создайте класс Game с виртуальной функцией play(). Реализуйте производные классы BoardGame и VideoGame.
 
 ## Скрин
+![](https://github.com/D-one-two-three/c-plas-plas/blob/main/src/1.jpg)
+
+----------------------------------------------------
 
 ## Вторая
 
